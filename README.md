@@ -1,5 +1,5 @@
 # Food Order
-## Design by bat24am
+## Design by Tharujaya20
 
 ## Clone repo
 
